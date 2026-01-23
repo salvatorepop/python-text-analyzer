@@ -1,0 +1,24 @@
+# Analizador de Texto en Python
+
+Proyecto de práctica en Python que:
+- Lee un archivo de texto
+- Limpia el contenido
+- Cuenta palabras, líneas y caracteres
+
+## Requisitos
+- Python 3.x
+
+## Uso
+Ejecuta el programa con:
+
+python text_analyzer.py
+
+O con el nombre real del archivo si no lo renombraste.
+
+Cuando se solicite, escribe:
+data.txt
+
+## Ejemplo de salida
+El texto tiene 11 palabras
+El texto tiene 73 caracteres
+Contiene 3 líneas
