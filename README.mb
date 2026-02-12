@@ -13,8 +13,6 @@ Ejecuta el programa con:
 
 python text_analyzer.py
 
-O con el nombre real del archivo si no lo renombraste.
-
 Cuando se solicite, escribe:
 data.txt
 
